@@ -5,7 +5,16 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class RegistroTransacoesComStream {
-
+     /**
+     * <h1>Orientação a Objetos na Prática com Java</h1>
+     * Desafio de código 2 / 5  da DIO - Registro de Transações Bancárias com Stream API
+     * <p>
+     * <b>Note:</b> Desenvolvido na linguagem Java.
+     *
+     * @author  Victor Portela
+     * @version 1.0
+     * @since   06/06/2024
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
